@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshuRathore13/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
