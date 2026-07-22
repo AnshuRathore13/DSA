@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/AnshuRathore13/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
