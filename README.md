@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshuRathore13/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/AnshuRathore13/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshuRathore13/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/AnshuRathore13/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
