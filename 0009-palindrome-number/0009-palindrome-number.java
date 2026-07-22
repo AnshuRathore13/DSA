@@ -1,32 +1,28 @@
 class Solution {
     public boolean isPalindrome(int x) {
-       if(x<0){
+        
+       if(x<0 || (x%10==0 && x!=0)){
         return false;
        } 
-       int z=x;
+       
        int y=0;
-       int i=0;
+       
 
-       while(z>0){
-        int ls=z%10;
-        y=y*10+ls;
-        z/=10;
-        i++;
-       }
-
-       while(x>0){
-        int lsx=x%10;
-        int lsy=y%10;
-
-        if(lsx!=lsy){
-            return false;
         
+        while(x>y){
+            int ls=x%10;
+            y=y*10+ls;
+            x/=10;
+       
         }
-        x/=10;
-        y/=10;
-       }
+            
+        
 
-       return true;
+        if(x==y || x==(y/10)) return true;
+
+        return false;
+
+       
        
     }
     
