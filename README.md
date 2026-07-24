@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshuRathore13/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
