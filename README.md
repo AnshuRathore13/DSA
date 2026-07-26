@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AnshuRathore13/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/AnshuRathore13/DSA/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/AnshuRathore13/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/AnshuRathore13/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/AnshuRathore13/DSA/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
