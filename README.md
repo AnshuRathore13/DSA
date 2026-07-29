@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnshuRathore13/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshuRathore13/DSA/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
