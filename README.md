@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/AnshuRathore13/DSA/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AnshuRathore13/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -104,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/AnshuRathore13/DSA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
