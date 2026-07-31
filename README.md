@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AnshuRathore13/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
@@ -109,4 +110,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/AnshuRathore13/DSA/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
