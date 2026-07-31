@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
@@ -115,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
