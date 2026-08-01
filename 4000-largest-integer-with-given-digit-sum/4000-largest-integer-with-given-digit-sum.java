@@ -3,7 +3,7 @@ class Solution {
         int max=(int )Math.pow(10,n)-1;
               
 
-        while(max>=0){
+        while(max>=s){
             int check=max;
             int count=0;
             while(check>0){
