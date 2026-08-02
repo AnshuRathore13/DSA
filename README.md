@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AnshuRathore13/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AnshuRathore13/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -49,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnshuRathore13/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AnshuRathore13/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/AnshuRathore13/DSA/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshuRathore13/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
