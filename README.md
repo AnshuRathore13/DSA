@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/AnshuRathore13/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/AnshuRathore13/DSA/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/AnshuRathore13/DSA/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/AnshuRathore13/DSA/tree/main/0342-power-of-four/) | Easy |
