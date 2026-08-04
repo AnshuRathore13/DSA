@@ -30,11 +30,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/AnshuRathore13/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshuRathore13/DSA/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
