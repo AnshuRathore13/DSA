@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshuRathore13/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/AnshuRathore13/DSA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/AnshuRathore13/DSA/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AnshuRathore13/DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/AnshuRathore13/DSA/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/AnshuRathore13/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/AnshuRathore13/DSA/tree/main/0342-power-of-four/) | Easy |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AnshuRathore13/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/AnshuRathore13/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
