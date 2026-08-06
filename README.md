@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0052-n-queens-ii](https://github.com/AnshuRathore13/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/AnshuRathore13/DSA/tree/main/0078-subsets/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -167,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnshuRathore13/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/AnshuRathore13/DSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
