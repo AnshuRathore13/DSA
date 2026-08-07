@@ -1,11 +1,11 @@
 class Solution {
     public int totalNQueens(int n) {
-        count=0;
+        
         char board[][]=new char[n][n];
         queen(board,0);
         return count;
     }
-    static int count=0;
+    int count=0;
     
     public void queen(char board[][],int row){
         if(row==board.length){
