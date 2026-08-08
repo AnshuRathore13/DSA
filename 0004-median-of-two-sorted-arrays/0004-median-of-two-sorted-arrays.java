@@ -16,8 +16,8 @@ class Solution {
         int length=merged.length;
 
         if(length%2==0){
-            double result=((merged[length/2]+merged[(length-1)/2])/2);
-            return result;
+           
+            return ((merged[length/2]+merged[(length-1)/2])/2);
         }else{
             return (merged[(length-1)/2]);
         }
