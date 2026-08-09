@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AnshuRathore13/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/AnshuRathore13/DSA/tree/main/0704-binary-search/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshuRathore13/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,12 +115,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -183,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/AnshuRathore13/DSA/tree/main/0052-n-queens-ii/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
