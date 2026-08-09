@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AnshuRathore13/DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AnshuRathore13/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/AnshuRathore13/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/AnshuRathore13/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshuRathore13/DSA/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/AnshuRathore13/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
