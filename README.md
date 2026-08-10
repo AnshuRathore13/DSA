@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshuRathore13/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AnshuRathore13/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/AnshuRathore13/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
