@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshuRathore13/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AnshuRathore13/DSA/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AnshuRathore13/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/AnshuRathore13/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
