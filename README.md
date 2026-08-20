@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/AnshuRathore13/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/AnshuRathore13/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshuRathore13/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnshuRathore13/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AnshuRathore13/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/AnshuRathore13/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnshuRathore13/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/AnshuRathore13/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnshuRathore13/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
