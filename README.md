@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AnshuRathore13/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/AnshuRathore13/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AnshuRathore13/DSA/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -260,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AnshuRathore13/DSA/tree/main/0075-sort-colors/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/AnshuRathore13/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
