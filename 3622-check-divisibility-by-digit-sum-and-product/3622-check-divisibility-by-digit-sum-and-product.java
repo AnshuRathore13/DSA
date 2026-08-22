@@ -10,7 +10,7 @@ class Solution {
             i/=10;
         }
 
-        if(n%(sum+mul)==0) return true;
-        return false;
+        return (n%(sum+mul)==0);
+        
     }
 }
