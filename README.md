@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnshuRathore13/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/AnshuRathore13/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnshuRathore13/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/AnshuRathore13/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/AnshuRathore13/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
