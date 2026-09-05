@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/AnshuRathore13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AnshuRathore13/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/AnshuRathore13/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnshuRathore13/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -301,8 +302,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AnshuRathore13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AnshuRathore13/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/AnshuRathore13/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnshuRathore13/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/AnshuRathore13/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
