@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnshuRathore13/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/AnshuRathore13/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AnshuRathore13/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AnshuRathore13/DSA/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/AnshuRathore13/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnshuRathore13/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnshuRathore13/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
