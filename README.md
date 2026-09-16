@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AnshuRathore13/DSA/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AnshuRathore13/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/AnshuRathore13/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0796-rotate-string](https://github.com/AnshuRathore13/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AnshuRathore13/DSA/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,5 +334,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnshuRathore13/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AnshuRathore13/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AnshuRathore13/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
