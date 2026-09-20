@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AnshuRathore13/DSA/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnshuRathore13/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
