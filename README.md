@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/AnshuRathore13/DSA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AnshuRathore13/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshuRathore13/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AnshuRathore13/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnshuRathore13/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AnshuRathore13/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/AnshuRathore13/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshuRathore13/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AnshuRathore13/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/AnshuRathore13/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AnshuRathore13/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
