@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/AnshuRathore13/DSA/tree/main/0402-remove-k-digits/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/AnshuRathore13/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/AnshuRathore13/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/AnshuRathore13/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/AnshuRathore13/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/AnshuRathore13/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AnshuRathore13/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AnshuRathore13/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0509-fibonacci-number](https://github.com/AnshuRathore13/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/AnshuRathore13/DSA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AnshuRathore13/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/AnshuRathore13/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/AnshuRathore13/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AnshuRathore13/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -335,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshuRathore13/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
