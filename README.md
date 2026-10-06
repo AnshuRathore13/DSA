@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/AnshuRathore13/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AnshuRathore13/DSA/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/AnshuRathore13/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AnshuRathore13/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/AnshuRathore13/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/AnshuRathore13/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AnshuRathore13/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AnshuRathore13/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AnshuRathore13/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AnshuRathore13/DSA/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/AnshuRathore13/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
