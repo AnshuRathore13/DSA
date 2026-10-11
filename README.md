@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshuRathore13/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnshuRathore13/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshuRathore13/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnshuRathore13/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Algorithm X
