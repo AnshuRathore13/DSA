@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/AnshuRathore13/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshuRathore13/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AnshuRathore13/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/AnshuRathore13/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnshuRathore13/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AnshuRathore13/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/AnshuRathore13/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AnshuRathore13/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AnshuRathore13/DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshuRathore13/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/AnshuRathore13/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
