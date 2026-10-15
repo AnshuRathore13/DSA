@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshuRathore13/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AnshuRathore13/DSA/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnshuRathore13/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshuRathore13/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnshuRathore13/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/AnshuRathore13/DSA/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/AnshuRathore13/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AnshuRathore13/DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshuRathore13/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshuRathore13/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnshuRathore13/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -395,4 +397,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnshuRathore13/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshuRathore13/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshuRathore13/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
