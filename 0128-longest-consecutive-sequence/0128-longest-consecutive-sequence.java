@@ -22,6 +22,7 @@ class Solution {
 
             max=Math.max(cur,max);
            }
+        
         }
 
         return max;
