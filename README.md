@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnshuRathore13/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AnshuRathore13/DSA/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/AnshuRathore13/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/AnshuRathore13/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/AnshuRathore13/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AnshuRathore13/DSA/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/AnshuRathore13/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnshuRathore13/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AnshuRathore13/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnshuRathore13/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
