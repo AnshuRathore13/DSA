@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/AnshuRathore13/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/AnshuRathore13/DSA/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AnshuRathore13/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnshuRathore13/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AnshuRathore13/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AnshuRathore13/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AnshuRathore13/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/AnshuRathore13/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/AnshuRathore13/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AnshuRathore13/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnshuRathore13/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/AnshuRathore13/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AnshuRathore13/DSA/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnshuRathore13/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
